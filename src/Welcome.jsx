@@ -10,7 +10,7 @@ export default function Welcome() {
         <p className="p-2 mt-4 text-center text-xl font-medium">
           Get started by editing{" "}
           <span className="px-[6px] py-[4px] bg-gray-200 rounded-[4px] font-[400] text-[14px]">
-            pages/index.tsx
+            pages/main.tsx
           </span>
         </p>
       </div>
